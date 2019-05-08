@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "E:/Tensorflow/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "E:/Tensorflow/projector/data/201807020948404.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
